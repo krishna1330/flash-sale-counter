@@ -1,0 +1,28 @@
+.countdown-timer {
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.time-unit {
+    text-align: center;
+    margin: 0 10px;
+}
+
+.time-unit div {
+    font-size: 2rem;
+    color: #333;
+}
+
+.time-unit span {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.countdown-timer span {
+    font-size: 1.5rem;
+    color: #e74c3c;
+    /* Red dot color */
+    margin: 0 5px;
+}
